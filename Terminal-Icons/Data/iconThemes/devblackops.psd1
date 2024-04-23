@@ -31,6 +31,7 @@
                 onedrive                = 'nf-dev-onedrive'
                 downloads               = 'nf-md-folder_download'
                 src                     = 'nf-oct-terminal'
+                source                  = 'nf-oct-terminal'
                 development             = 'nf-oct-terminal'
                 projects                = 'nf-seti-project'
                 bin                     = 'nf-oct-file_binary'
@@ -248,12 +249,16 @@
             '.cfg'                  = 'nf-fa-gear'
 
             # Source Files
+            '.h'                    = 'nf-md-language_c'
             '.c'                    = 'nf-md-language_c'
+            '.hpp'                  = 'nf-md-language_cpp'
             '.cpp'                  = 'nf-md-language_cpp'
             '.cxx'                  = 'nf-md-language_cpp'
             '.c++'                  = 'nf-md-language_cpp'
+            'ixx'                   = 'nf-md-language_cpp'
             '.go'                   = 'nf-dev-go'
             '.php'                  = 'nf-dev-php'
+            '.d'                    = 'nf-md-language_d'
 
             # Visual Studio
             '.csproj'               = 'nf-dev-visualstudio'
