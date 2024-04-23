@@ -255,10 +255,9 @@
             '.cpp'                  = 'nf-md-language_cpp'
             '.cxx'                  = 'nf-md-language_cpp'
             '.c++'                  = 'nf-md-language_cpp'
-            'ixx'                   = 'nf-md-language_cpp'
+            '.ixx'                   = 'nf-md-language_cpp'
             '.go'                   = 'nf-dev-go'
             '.php'                  = 'nf-dev-php'
-            '.d'                    = 'nf-md-language_d'
 
             # Visual Studio
             '.csproj'               = 'nf-dev-visualstudio'
