@@ -29,6 +29,7 @@
                 onedrive                = 'D3D3D3'
                 downloads               = 'D3D3D3'
                 src                     = '00FF7F'
+                source                  = '00FF7F'
                 development             = '00FF7F'
                 projects                = '00FF7F'
                 bin                     = '00FFF7'
@@ -244,9 +245,12 @@
             '.cfg'                  = '6495ED'
 
             # Source Files
+            '.h'                    = 'A9A9A9'
             '.c'                    = 'A9A9A9'
+            '.hpp'                  = 'A9A9A9'
             '.cpp'                  = 'A9A9A9'
             '.cxx'                  = 'A9A9A9'
+            '.ixx'                  = 'A9A9A9'
             '.c++'                  = 'A9A9A9'
             '.go'                   = '20B2AA'
             '.php'                  = '6A5ACD'
